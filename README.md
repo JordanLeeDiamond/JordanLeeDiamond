@@ -4,4 +4,3 @@
 - 🌱 I’m currently learning Javascript, HTML and CSS at the moment.
 - 📫 How to reach me: (github.com/JordanLeeDiamond)
 - 😄 Pronouns: He/Him
-- Test
